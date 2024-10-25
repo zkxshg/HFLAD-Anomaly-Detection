@@ -21,21 +21,21 @@ HFLAD (Hierarchical Fusion Learning Anomaly Detection) is an advanced anomaly de
 
 ## TFAD model architecture
 
-![fig 1](.\Pic\1.jpg)
+![fig 1](https://github.com/zkxshg/HFLAD-Anomaly-Detection/blob/main/Pic/1.jpg)
 
 ## Main Results
 
-![2](.\Pic\2.JPG)
+![2](https://github.com/zkxshg/HFLAD-Anomaly-Detection/blob/main/Pic/2.JPG)
 
-![3](.\Pic\3.JPG)
+![3](https://github.com/zkxshg/HFLAD-Anomaly-Detection/blob/main/Pic/3.JPG)
 
-![4](.\Pic\4.JPG)
+![4](https://github.com/zkxshg/HFLAD-Anomaly-Detection/blob/main/Pic/4.JPG)
 
-![6](.\Pic\6.jpg)
+![6](https://github.com/zkxshg/HFLAD-Anomaly-Detection/blob/main/Pic/6.jpg)
 
-![7].\Pic\7.jpg)
+![7](https://github.com/zkxshg/HFLAD-Anomaly-Detection/blob/main/Pic/7.jpg)
 
-![8](.\Pic\8.jpg)
+![8](https://github.com/zkxshg/HFLAD-Anomaly-Detection/blob/main/Pic/8.jpg)
 
 ### Contributions
 
